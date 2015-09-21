@@ -1,5 +1,5 @@
 # ADNKSVerileri
-Adrese Dayali Nufus Kayit Sistemi (ADNKS) verileri [TUIK web sitesinden](http://tuikapp.tuik.gov.tr/adnksdagitapp/adnks.zul) indirilmis ve tum Turkiye'yi kapsayacak sekilde birlestirilmislerdir.
+Adrese Dayali Nufus Kayit Sistemi (ADNKS) verileri [TUIK web sitesinden](http://tuikapp.tuik.gov.tr/adnksdagitapp/adnks.zul) indirilmis ve tum Turkiye'yi kapsayacak sekilde birlestirilmistir.
 
 **2013_ilce_erkek_yas_combined.csv** : 2013 yili erkek yas gruplari populasyonu (ilce bazinda)
 
