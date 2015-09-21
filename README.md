@@ -15,4 +15,4 @@ Adrese Dayali Nufus Kayit Sistemi (ADNKS) verileri [TUIK web sitesinden](http://
 
 **2014_mahalle_nufus+18_combined.csv** : 2014 yili 18+ populasyonu (mahalle bazinda)
 
-**2014_mahalle_nufus_combined.csv** : 2013 yili tum populasyon (mahalle bazinda)
+**2014_mahalle_nufus_combined.csv** : 2014 yili tum populasyon (mahalle bazinda)
